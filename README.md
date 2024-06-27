@@ -1,0 +1,1 @@
+This is a simple news app that fetches the news from database
